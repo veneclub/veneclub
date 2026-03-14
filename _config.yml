@@ -1,0 +1,19 @@
+title: Veneclub Holdings Inc.
+description: El Banco Digital para Todos los Venezolanos - Venecoin (VNC)
+baseurl: ""
+url: ""
+
+future: true
+
+quiet: false
+
+plugins: []
+
+exclude:
+  - node_modules
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - package-lock.json
+  - "*.TXT"
+  - "*.png"
